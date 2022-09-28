@@ -1,2 +1,3 @@
 # Particles-generation-with-Monte-Carlo-
-C++ program developed with ROOT framework for the generation of large amount of particles. 
+
+The program presented simulates a generation (through the Monte Carlo method) of a very large number of particles, by the order of 10^7, which can essentially be of 7 different types: K *, Kaone +, Kaone-, proton +, proton-, pion + (π +), pion- (π-); purpose of the program is the analysis of different characteristics of the aforementioned particles, such as the distribution of the impulse module and the distribution of energy, but in particular the analysis of the distribution of the invariant masses of particles taken from different "sets", with particular attention to those coming from the decay of K *. It is precisely for these ones that it will be necessary to verify that the data obtained from the fits applied to the graphs are compatible with those entered during the generation phase.
